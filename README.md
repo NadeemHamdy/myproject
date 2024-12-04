@@ -1,3 +1,3 @@
 # myproject
-test repo
+test repo /br
 hello 
